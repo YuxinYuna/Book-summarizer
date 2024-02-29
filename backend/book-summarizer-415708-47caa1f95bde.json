@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "book-summarizer-415708",
+  "private_key_id": "47caa1f95bde5529502a20c8489334ef9ff71d35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx+1o6GC5+z7CV\nEJZFH6BRqIN9wg3TEYSujE97H2m7FRB7aCO/o5/+lgPfEow4HHwkufhoyoXVuQGe\njWcQRn4XfmAVWi6TUNNIfXZVyzvbRPSSbHUgjujI2TPVG7lCTnNit8rbIFLr1ruM\nJDPUhmBWoy940D/IBDnMBvyuu08m0bnX+BuENyVaiQAT5/ER8mCO0g2P3L5ZCd6h\nWPMjw/rcpR0VvVZActd4cdEHvop1tpDZbNvMpjEHPRcU1yNukxUF7zPK09d8ORWA\ntTqHFDMiaCXch/aVURfHg+kZ/SZfFPVPKZh4S4Db8kCgOpFaF6vGlABatE6hc3Q5\n9cMZ4+KrAgMBAAECggEAFIQfVfQEpAyH098KG2S2Y8NTiPMOCecKjt5QqSYpV23p\nrPgHqucPIdckEho+vJcX/lnLlzTFMao2VBMDrt4ZWdbw93UiSkv2VvRTaDdZqoBr\n2tcSt1KR5dkXvviHpeuKJHaANTsoI9RoYRKpQNXOlB4SclA7EfDewrSJexDPYm94\nKNAbNImEWx595KftgaiB1p25hF9hLSsnyVOjpb3i0d5G0VxZtTiO5bxBFxXZgwa8\nzIOPvShYf96lJ/4VfpxCWArJYjchaV1rKIu1nocWY3zi4yhRqg4VwUHgx+bkSna8\nVHe81IDHPYU2e9xegN2on3KG82oVKcnobQvq5JE9TQKBgQDnPW5fLItkX0jKf3R5\n2ZWgHio5f5stc2on5N+Sn6Y1jtjt4WDi6lnM4PLnFcL66CgR5F6lJGZvDcnhlfs0\nIxYD9k9R2GGxDASZRcOEjB3hFN5iEhbJd27Twnja0XVolezQ7TZKWx8Vb444dw8Z\nDdmqfbgQ7f7TXfhOxHK+5b2q7wKBgQDFCg0qidVNkwlHJTSvMt9EmHQuEHaDTn5A\neIzLkcWLKXelkUYZhCQvq9b+B14RNYsc9tbeCPoUniLpondgEIQzkJgoq1mt60WQ\nRpJqLw58HwO6icL4AMQyhbmSsAhRwjWEfxdM0W6kyLwSBPu+mwYxgJkqCMqs3Jjx\nV5yabPk0BQKBgAUk9rmjUg6PmBz5LOwxDQUc5q+UySz/rlLo4phueNIkNWtFYlRq\nBklqj7zYXRgb5hhPzlM6NhUuZ1lfbtFAHpND/YvClpnLvKZ0SN9ABsIlJrVj1aHx\nyENpxiqIEmabP0N+o4CP+mcNrkpPS8Sw7DDAz0GBKfQl2QpXkH3yun99AoGBALhj\nRJjnLU4P5+HFJn1BPQBDLo2g6FbOUIViildCDbvBzW6J+TCNoRNfWqyUFmpCUfGD\n6OUVP3ml1oQOfmnOaviaOlnsp9qCTbHK6N8nNAXhPCsHGgXdKb0huNxVkSN5e32H\nNTW00zavhpfSRAdFqVEPx8U3Pvru4M0QsMMucTJFAoGBANuFTmBnfIZYvMdurvUW\nMNC0ppiuj5MPoZdehOCeJjIIA9tVxfm/XApyRR5a0+RCa9pwhgSAhwFttbDRLtx2\nFoA/hu2URVDzNOVpSQM6Z8nSlPJZtod0+gTrCVDihF6dWfb3geiaMqjJDsSytJ3A\n+ea9un7z2kHLLE8VFuTniHqF\n-----END PRIVATE KEY-----\n",
+  "client_email": "yuxin-529@book-summarizer-415708.iam.gserviceaccount.com",
+  "client_id": "114575268365769167729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yuxin-529%40book-summarizer-415708.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
