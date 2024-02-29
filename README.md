@@ -3,6 +3,7 @@
 ![image](./frontend/public/image.png)
 
 **How to start**
+
 Run this command in the backend folder
 
 `node './dist/service.js'` 
