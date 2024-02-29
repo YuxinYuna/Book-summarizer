@@ -1,6 +1,6 @@
 **Program screenshot**
 
-![image-20240228191009640](/Users/yuxinshi/Library/Application Support/typora-user-images/image-20240228191009640.png)
+![image](./frontend/public/image.png)
 
 **How to start**
 Run this command in the backend folder
