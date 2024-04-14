@@ -43,7 +43,7 @@ export const BookSearch = () => {
     const nextStartIndex = loadMore ? startIndex : 0;
   
     try {
-      const response = await axios.get(`http://localhost:3001/search/${query}`, {
+      const response = await axios.get(`http://3.133.137.82:3001/search/${query}`, {
         params: {
           startIndex: nextStartIndex,
           maxResults: 10,
