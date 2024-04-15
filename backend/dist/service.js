@@ -10,10 +10,10 @@ app.use(cors());
 
 
 // Mock function to extract keywords 
-function extractKeywords(text) {
+// function extractKeywords(text) {
 
-  return text.split(/\s+/).slice(0, 5);
-}
+//   return text.split(/\s+/).slice(0, 5);
+// }
 
 // Enhanced helper function for more detailed recommendations
 async function analyzeTextForRecommendation(book) {
@@ -26,11 +26,11 @@ async function analyzeTextForRecommendation(book) {
       recommendationReason += ` spans across categories such as ${book.volumeInfo.categories.join(", ")},`;
     }
 
-    // Extract keywords from the description
-    if (description) {
-      const keywords = extractKeywords(description);
-      recommendationReason += ` touching on themes like ${keywords.join(", ")},`;
-    }
+    // // Extract keywords from the description
+    // if (description) {
+    //   const keywords = extractKeywords(description);
+    //   recommendationReason += ` touching on themes like ${keywords.join(", ")},`;
+    // }
 
     // Perform entity analysis
     const [entityResult] = await languageClient.analyzeEntities({
