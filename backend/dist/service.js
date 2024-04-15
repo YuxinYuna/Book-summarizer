@@ -7,7 +7,7 @@ const languageClient = new LanguageServiceClient();
 const app = express();
 app.use(express.json());
 app.use(cors({
-  origin: 'http://3.133.137.82:3000'
+  origin: 'http://3.133.137.82:3003'
 }));
 
 // Mock function to extract keywords 
